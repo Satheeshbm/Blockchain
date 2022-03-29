@@ -25,8 +25,8 @@ To run streamlit -
 
 3. Verify the block contents and hashes in the Streamlit dropdown menu. 
 
-[![Video-Demo] // Title
-(Images/PyChain Ledger.mp4)]
+[![Video_demo]]({mages/PyChain Ledger.mp4} "Video - Demo Run")
+
 
 
 
