@@ -25,5 +25,7 @@ To run streamlit -
 
 3. Verify the block contents and hashes in the Streamlit dropdown menu. 
 
-![Recording of the program run](Images/PyChain Ledger.mp4)
+Images/PyChain Ledger.mp4
+
+
 
